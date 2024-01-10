@@ -1,0 +1,626 @@
+[
+  {
+    "userID": "100074630123904",
+    "name": "Tony Ngô",
+    "count": 852,
+    "rank": 1
+  },
+  {
+    "userID": "100076656012910",
+    "name": "Nakiri Ayame",
+    "count": 722,
+    "rank": 2
+  },
+  {
+    "userID": "61553597474049",
+    "name": "Ysn Linhh",
+    "count": 614,
+    "rank": 3
+  },
+  {
+    "userID": "100083323504114",
+    "name": "Thang Hoàng",
+    "count": 348,
+    "rank": 4
+  },
+  {
+    "userID": "100094864985835",
+    "name": "ɞNguyễn'z Mai'z Anhʚ",
+    "count": 337,
+    "rank": 5
+  },
+  {
+    "userID": "100075940538217",
+    "name": "Nguyen Huu Trin",
+    "count": 330,
+    "rank": 6
+  },
+  {
+    "userID": "61550332883118",
+    "name": "Nguyễn Mai Anh",
+    "count": 309,
+    "rank": 7
+  },
+  {
+    "userID": "100079323865629",
+    "name": "Siêu Ếch",
+    "count": 296,
+    "rank": 8
+  },
+  {
+    "userID": "100077729258474",
+    "name": "Nguyễn Lượng",
+    "count": 274,
+    "rank": 9
+  },
+  {
+    "userID": "61554857334283",
+    "name": "Nguyễn Hoàng Hữu Trí",
+    "count": 173,
+    "rank": 10
+  },
+  {
+    "userID": "100084258601726",
+    "name": "Raiden Ei",
+    "count": 153,
+    "rank": 11
+  },
+  {
+    "userID": "100055428744651",
+    "name": "Huy Bou",
+    "count": 152,
+    "rank": 12
+  },
+  {
+    "userID": "100056085520189",
+    "name": "Hướng Khang",
+    "count": 118,
+    "rank": 13
+  },
+  {
+    "userID": "100093134196931",
+    "name": "Thịnh Hoshino",
+    "count": 107,
+    "rank": 14
+  },
+  {
+    "userID": "100092052669067",
+    "name": "Trần Ngân Yae Miko",
+    "count": 99,
+    "rank": 15
+  },
+  {
+    "userID": "100078698517933",
+    "name": "Hwang Deok Seon",
+    "count": 90,
+    "rank": 16
+  },
+  {
+    "userID": "100083668387482",
+    "name": "Hào Darling",
+    "count": 64,
+    "rank": 17
+  },
+  {
+    "userID": "61550051985529",
+    "name": "Dương Đinh",
+    "count": 53,
+    "rank": 18
+  },
+  {
+    "userID": "100076263673071",
+    "name": "Nguyễn Khang",
+    "count": 34,
+    "rank": 19
+  },
+  {
+    "userID": "100074300858280",
+    "name": "Dalf Fiiq",
+    "count": 34,
+    "rank": 20
+  },
+  {
+    "userID": "100038425510788",
+    "name": "Marin Kitagawa",
+    "count": 23,
+    "rank": 21
+  },
+  {
+    "userID": "100083641210061",
+    "name": "Tu Luu",
+    "count": 22,
+    "rank": 22
+  },
+  {
+    "userID": "100088434536576",
+    "name": "Shikinami Mary",
+    "count": 20,
+    "rank": 23
+  },
+  {
+    "userID": "100090347185266",
+    "name": "Nguyễn Huynh",
+    "count": 18,
+    "rank": 24
+  },
+  {
+    "userID": "100091792153779",
+    "name": "Nguyen Minh Kha JW",
+    "count": 16,
+    "rank": 25
+  },
+  {
+    "userID": "61550747777851",
+    "name": "Moka Elda",
+    "count": 13,
+    "rank": 26
+  },
+  {
+    "userID": "100073702824576",
+    "name": "Nguyễn Mun's",
+    "count": 11,
+    "rank": 27
+  },
+  {
+    "userID": "61551555352114",
+    "name": "Nguyễn ",
+    "count": 7,
+    "rank": 28
+  },
+  {
+    "userID": "100074632014379",
+    "name": "Lê Hỷ",
+    "count": 7,
+    "rank": 29
+  },
+  {
+    "userID": "100086208279755",
+    "name": "Hoàng Trung",
+    "count": 6,
+    "rank": 30
+  },
+  {
+    "userID": "100065592406581",
+    "name": "Lý Dương Nhật",
+    "count": 6,
+    "rank": 31
+  },
+  {
+    "userID": "100073857256869",
+    "name": "Nguyễn Quốc Tuệ",
+    "count": 5,
+    "rank": 32
+  },
+  {
+    "userID": "100089624975292",
+    "name": "Vũ Văn Hải",
+    "count": 5,
+    "rank": 33
+  },
+  {
+    "userID": "100048953572320",
+    "name": "Lê Minh Hoà",
+    "count": 5,
+    "rank": 34
+  },
+  {
+    "userID": "100095558135395",
+    "name": "Trương Trung Kiên",
+    "count": 5,
+    "rank": 35
+  },
+  {
+    "userID": "100048745578297",
+    "name": "Đinh Hoàng Long",
+    "count": 4,
+    "rank": 36
+  },
+  {
+    "userID": "100073267268654",
+    "name": "Ayuki Yato",
+    "count": 4,
+    "rank": 37
+  },
+  {
+    "userID": "100058899980173",
+    "name": "Dũng Nguyễn Văn",
+    "count": 3,
+    "rank": 38
+  },
+  {
+    "userID": "100092706078922",
+    "name": "Nguyễn Huy Vũ",
+    "count": 3,
+    "rank": 39
+  },
+  {
+    "userID": "100089959953774",
+    "name": "Lộc Nguyễn",
+    "count": 3,
+    "rank": 40
+  },
+  {
+    "userID": "100084867745709",
+    "name": "Trần Quốc Thái",
+    "count": 2,
+    "rank": 41
+  },
+  {
+    "userID": "100064606430512",
+    "name": "Tông Chủ Zei",
+    "count": 2,
+    "rank": 42
+  },
+  {
+    "userID": "100088409783155",
+    "name": "Huy Vu",
+    "count": 2,
+    "rank": 43
+  },
+  {
+    "userID": "100080087851623",
+    "name": "Nguyễn Quốc Học",
+    "count": 2,
+    "rank": 44
+  },
+  {
+    "userID": "100082245772554",
+    "name": "Puynn Atuann Cutii",
+    "count": 1,
+    "rank": 45
+  },
+  {
+    "userID": "100056791126592",
+    "name": "Tiến Đức",
+    "count": 1,
+    "rank": 46
+  },
+  {
+    "userID": "100072348193346",
+    "name": "Khang An",
+    "count": 1,
+    "rank": 47
+  },
+  {
+    "userID": "100040166893135",
+    "name": "Kem Yangho",
+    "count": 1,
+    "rank": 48
+  },
+  {
+    "userID": "100066254035809",
+    "name": "Quốc Hưng",
+    "count": 1,
+    "rank": 49
+  },
+  {
+    "userID": "61550945062940",
+    "name": "Nguyễn Thành Lộc",
+    "count": 0,
+    "rank": 50
+  },
+  {
+    "userID": "61551255951931",
+    "name": "Hoang Khanh",
+    "count": 0,
+    "rank": 51
+  },
+  {
+    "userID": "61552176110938",
+    "name": "Yamacuri Hanato Apex",
+    "count": 0,
+    "rank": 52
+  },
+  {
+    "userID": "61554966034337",
+    "name": "Thang Ker",
+    "count": 0,
+    "rank": 53
+  },
+  {
+    "userID": "100022875183322",
+    "name": "Lưu Quân",
+    "count": 0,
+    "rank": 54
+  },
+  {
+    "userID": "100024069017219",
+    "name": "KiềuNguyễn Trinh",
+    "count": 0,
+    "rank": 55
+  },
+  {
+    "userID": "100043576772896",
+    "name": "Thiện Trần",
+    "count": 0,
+    "rank": 56
+  },
+  {
+    "userID": "100047326453324",
+    "name": "Lê Ngọc Vũ",
+    "count": 0,
+    "rank": 57
+  },
+  {
+    "userID": "100052160838587",
+    "name": "Đặng Thanh Hinh",
+    "count": 0,
+    "rank": 58
+  },
+  {
+    "userID": "100053467584289",
+    "name": "Lương HoàngAnh",
+    "count": 0,
+    "rank": 59
+  },
+  {
+    "userID": "100058403747701",
+    "name": "Nam Nai Kì",
+    "count": 0,
+    "rank": 60
+  },
+  {
+    "userID": "100062708897777",
+    "name": "Sazaki Hana Yanosa",
+    "count": 0,
+    "rank": 61
+  },
+  {
+    "userID": "100067198620159",
+    "name": "Nguyễn Bảo Nam",
+    "count": 0,
+    "rank": 62
+  },
+  {
+    "userID": "100069968240125",
+    "name": "LinhQuang Nguyen",
+    "count": 0,
+    "rank": 63
+  },
+  {
+    "userID": "100073659908455",
+    "name": "Bick Trann",
+    "count": 0,
+    "rank": 64
+  },
+  {
+    "userID": "100074472831972",
+    "name": "Người dùng Facebook",
+    "count": 0,
+    "rank": 65
+  },
+  {
+    "userID": "100075273784987",
+    "name": "Bá Hoàng",
+    "count": 0,
+    "rank": 66
+  },
+  {
+    "userID": "100076197326914",
+    "name": "Người dùng Facebook",
+    "count": 0,
+    "rank": 67
+  },
+  {
+    "userID": "100076239337586",
+    "name": "Thanh Đinh",
+    "count": 0,
+    "rank": 68
+  },
+  {
+    "userID": "100079274723801",
+    "name": "Bạch Trạch",
+    "count": 0,
+    "rank": 69
+  },
+  {
+    "userID": "100079621823476",
+    "name": "Vinh The",
+    "count": 0,
+    "rank": 70
+  },
+  {
+    "userID": "100081027714273",
+    "name": "Sar Edwin",
+    "count": 0,
+    "rank": 71
+  },
+  {
+    "userID": "100083226369556",
+    "name": "Bui Tuan Anh",
+    "count": 0,
+    "rank": 72
+  },
+  {
+    "userID": "100083915906780",
+    "name": "Hoàng Minh",
+    "count": 0,
+    "rank": 73
+  },
+  {
+    "userID": "100084125482665",
+    "name": "Huu Chi",
+    "count": 0,
+    "rank": 74
+  },
+  {
+    "userID": "100084635053603",
+    "name": "Thảo Nguyên",
+    "count": 0,
+    "rank": 75
+  },
+  {
+    "userID": "100084696812250",
+    "name": "Trang Baka",
+    "count": 0,
+    "rank": 76
+  },
+  {
+    "userID": "100088292395633",
+    "name": "Duong Nguyen",
+    "count": 0,
+    "rank": 77
+  },
+  {
+    "userID": "100088817933405",
+    "name": "Dat Duong",
+    "count": 0,
+    "rank": 78
+  },
+  {
+    "userID": "100088878503380",
+    "name": "Gaming Jun",
+    "count": 0,
+    "rank": 79
+  },
+  {
+    "userID": "100089652824055",
+    "name": "Doan Anh Tuấn",
+    "count": 0,
+    "rank": 80
+  },
+  {
+    "userID": "100090746447475",
+    "name": "Người dùng Facebook",
+    "count": 0,
+    "rank": 81
+  },
+  {
+    "userID": "100090828499952",
+    "name": "Dì Mai",
+    "count": 0,
+    "rank": 82
+  },
+  {
+    "userID": "100091140543508",
+    "name": "Doop Hoàng",
+    "count": 0,
+    "rank": 83
+  },
+  {
+    "userID": "100091906673159",
+    "name": "Kiệt Hai Củ",
+    "count": 0,
+    "rank": 84
+  },
+  {
+    "userID": "100093219120629",
+    "name": "Hoàn Đinh",
+    "count": 0,
+    "rank": 85
+  },
+  {
+    "userID": "100093431247711",
+    "name": "Doanhh Trần",
+    "count": 0,
+    "rank": 86
+  },
+  {
+    "userID": "100094056517232",
+    "name": "Kazuma Sato",
+    "count": 0,
+    "rank": 87
+  },
+  {
+    "userID": "100094332513127",
+    "name": "Sen Bị Bủh",
+    "count": 0,
+    "rank": 88
+  },
+  {
+    "userID": "100095144624142",
+    "name": "Hà Vy'z",
+    "count": 0,
+    "rank": 89
+  },
+  {
+    "userID": "100030502042550",
+    "name": "Long Soái Ca",
+    "count": 0,
+    "rank": 90
+  },
+  {
+    "userID": "100050566416523",
+    "name": "Nguyễn Thanh",
+    "count": 0,
+    "rank": 91
+  },
+  {
+    "userID": "100054221726014",
+    "name": "Nguyễn Trường",
+    "count": 0,
+    "rank": 92
+  },
+  {
+    "userID": "100065597311745",
+    "name": "Phúc Hưng",
+    "count": 0,
+    "rank": 93
+  },
+  {
+    "userID": "100073437769710",
+    "name": "Nguyenn Diepz Khanhh",
+    "count": 0,
+    "rank": 94
+  },
+  {
+    "userID": "100077556034340",
+    "name": "Ngô Văn Sự",
+    "count": 0,
+    "rank": 95
+  },
+  {
+    "userID": "100078867387393",
+    "name": "Hải Hải",
+    "count": 0,
+    "rank": 96
+  },
+  {
+    "userID": "100079567437498",
+    "name": "Ngô Quốc",
+    "count": 0,
+    "rank": 97
+  },
+  {
+    "userID": "100080070048888",
+    "name": "Tú Lê",
+    "count": 0,
+    "rank": 98
+  },
+  {
+    "userID": "100081995210369",
+    "name": "Nguyễn Đức Mạnh",
+    "count": 0,
+    "rank": 99
+  },
+  {
+    "userID": "100088204284891",
+    "name": "My Dan",
+    "count": 0,
+    "rank": 100
+  },
+  {
+    "userID": "100093979257889",
+    "name": "Tạ Hồng Quân",
+    "count": 0,
+    "rank": 101
+  },
+  {
+    "userID": "100094216050831",
+    "name": "Phú Cap",
+    "count": 0,
+    "rank": 102
+  },
+  {
+    "userID": "100076945465410",
+    "name": "Yesn Linhh",
+    "count": 0,
+    "rank": 103
+  },
+  {
+    "userID": "100078483204227",
+    "name": "Linh Khánh",
+    "count": 0,
+    "rank": 104
+  }
+]
